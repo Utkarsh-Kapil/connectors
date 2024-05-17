@@ -34,9 +34,9 @@ connectors:
 #
 ## ------------------------------- Elasticsearch -------------------------------
 #
-elasticsearch:
-  host: "http://localhost:9200"
-  api_key: "Q3pKbGhZOEJkbmdGWUNfa1lNcm46ZVFLRjVMRndTbktWanh2Zm1FMENEUQ=="
+
+elasticsearch.host: "http://localhost:9200"
+elasticsearch.api_key: "Q3pKbGhZOEJkbmdGWUNfa1lNcm46ZVFLRjVMRndTbktWanh2Zm1FMENEUQ=="
 ## The host of the Elasticsearch deployment.
 #elasticsearch.host: http://localhost:9200
 #
