@@ -6,7 +6,14 @@
 #
 #
 ## ------------------------------- Connectors -------------------------------
-#
+#connectors:
+-
+  connector_id: "CjJZhY8BdngFYC_k6soN"
+  service_type: "mongodb"
+  api_key: "Q3pKbGhZOEJkbmdGWUNfa1lNcm46ZVFLRjVMRndTbktWanh2Zm1FMENEUQ=="
+elasticsearch:
+  host: "http://localhost:9200"
+  api_key: "Q3pKbGhZOEJkbmdGWUNfa1lNcm46ZVFLRjVMRndTbktWanh2Zm1FMENEUQ=="
 ##  The list of connector clients/customized connectors configurations.
 ##    Each object in the list requires `connector_id` and `service_type`.
 ##    An example is:
